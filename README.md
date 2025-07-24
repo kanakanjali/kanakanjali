@@ -5,7 +5,7 @@ I enjoy exploring how things work, building small projects, and continuously imp
 I'm excited to be part of the tech community and looking forward to contributing and learning from real-world experiences.
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ## **Languages:**
 • C  
