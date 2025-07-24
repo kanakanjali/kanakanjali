@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kanakanjali Roy
 
-<!--
-**kanakanjali/kanakanjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic learner with a growing interest in programming and technology.  
+I enjoy exploring how things work, building small projects, and continuously improving my skills in web development and coding.  
+I'm excited to be part of the tech community and looking forward to contributing and learning from real-world experiences.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack
+
+## **Languages:**
+• C  
+• Java  
+• Python  
+• JavaScript
+
+## **Web Development:**
+• HTML  
+• CSS  
+• Bootstrap  
+• JavaScript  
+
+## **Tools & Platforms:**
+• Git  
+• GitHub  
+• VS Code  
+
+## 📬 Contact Me
+
+• ✉️ Email: kanakanjali42@gmail.com  
+• 🔗 LinkedIn: https://www.linkedin.com/in/kanakanjali-roy-53b328325/  
+• 💻 GitHub: https://github.com/kanakanjali
+
+🌟 Thanks for checking out my profile -Let's connect and grow together!
+
+
+
