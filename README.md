@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Kanakanjali Roy
 
-##I'm an enthusiastic learner with a growing interest in programming and technology. ## 
-##I enjoy exploring how things work, building small projects, and continuously improving my skills in web development and coding. ## 
-##I'm excited to be part of the tech community and looking forward to contributing and learning from real-world experiences.##
+I'm an enthusiastic learner with a growing interest in programming and technology. 
+I enjoy exploring how things work, building small projects, and continuously improving my skills in web development and coding.
+I'm excited to be part of the tech community and looking forward to contributing and learning from real-world experiences.
 
 
 # 💻 Tech Stack
