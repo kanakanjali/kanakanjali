@@ -14,7 +14,7 @@
 
 <a href="https://github.com/kanakanjali?tab=followers"><img src="https://img.shields.io/github/followers/kanakanjali?style=flat-square&color=D4537E&labelColor=0d1117&label=followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=kanakanjali&style=flat-square&color=7F77DD&label=profile+views" />
-<a href="https://kanakanjali.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-visit+now-D4537E?style=flat-square&labelColor=0d1117" /></a>
+<a href="https://kanakanjali.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-visit-D4537E?style=flat-square&labelColor=0d1117" /></a>
 
 </div>
 
@@ -30,7 +30,6 @@ Passionate about building things for the web and contributing to the open source
 - 🎵 Music is always on while coding
 - 💡 Curious mind, consistent effort, creative approach
 - 🌐 Check out my [portfolio](https://kanakanjali.github.io/Portfolio/)
-- 📫 **kanakanjali42@gmail.com**
 
 <br/>
 
@@ -49,20 +48,6 @@ Passionate about building things for the web and contributing to the open source
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=kanakanjali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-
-</div>
-
-<br/>
-
-## 🌺 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kanakanjali&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4537E&icon_color=ED93B1&text_color=F4C0D1" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakanjali&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4537E&text_color=F4C0D1&langs_count=6" />
 
 </div>
 
