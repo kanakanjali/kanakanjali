@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=D4537E&center=true&vCenter=true&width=500&height=45&lines=hi+there!+i'm+kanakanjali+🌸;turning+curiosity+into+creation+✨;web+dev+%7C+python+%7C+open+source;first+steps+in+the+dev+world+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=D4537E&center=true&vCenter=true&width=500&height=45&lines=hi+there!+i'm+kanakanjali+🌸;passionate+about+web+dev+%26+open+source;turning+curiosity+into+creation+✨;first+steps+in+the+dev+world+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,23 +22,15 @@
 
 ## 🌸 About Me
 
-```ts
-const kanakanjali = {
-  location:  "West Bengal, India 🇮🇳",
-  role:      "student · web developer in the making",
-  languages: "C · Java · Python · JavaScript",
-  web:       "HTML · CSS · Bootstrap",
-  tools:     "Git · GitHub · VS Code",
-  contact:   "kanakanjali42@gmail.com",
-  vibe:      "curious. consistent. creative. 🌸",
-};
-```
+> *"Passionate about web development and open source — turning curiosity into creation."* 🌸
 
-> 🎯 *"First steps in the dev world — on a journey to turn curiosity into creation"*
+Passionate about building things for the web and contributing to the open source community. I love exploring how things work, creating projects from scratch, and growing through real-world experiences.
 
-I'm an enthusiastic learner with a growing interest in programming and technology.
-I enjoy exploring how things work, building small projects, and continuously improving.
-Excited to be part of the tech community and contribute from real-world experiences!
+- 💻 Focused on **web development** and building cool things
+- 🎵 Music is always on while coding
+- 💡 Curious mind, consistent effort, creative approach
+- 🌐 Check out my [portfolio](https://kanakanjali.github.io/Portfolio/)
+- 📫 **kanakanjali42@gmail.com**
 
 <br/>
 
@@ -66,8 +58,11 @@ Excited to be part of the tech community and contribute from real-world experien
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kanakanjali&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4537E&icon_color=7F77DD&text_color=F4C0D1&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakanjali&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4537E&text_color=F4C0D1&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=kanakanjali&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4537E&icon_color=ED93B1&text_color=F4C0D1" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakanjali&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4537E&text_color=F4C0D1&langs_count=6" />
 
 </div>
 
@@ -119,5 +114,6 @@ Excited to be part of the tech community and contribute from real-world experien
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:ED93B1,100:D4537E&height=100&section=footer" />
 </div>
+
 
 
