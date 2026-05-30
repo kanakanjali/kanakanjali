@@ -43,16 +43,6 @@ Passionate about building things for the web and contributing to the open source
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kanakanjali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-
-</div>
-
-<br/>
-
 ## 🌟 Featured Projects
 
 <div align="center">
