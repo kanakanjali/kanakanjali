@@ -10,14 +10,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/kanakanjali?tab=followers"><img src="https://img.shields.io/github/followers/kanakanjali?style=flat-square&color=D4537E&labelColor=0d1117&label=followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=kanakanjali&style=flat-square&color=7F77DD&label=profile+views" />
-<a href="https://kanakanjali.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-visit-D4537E?style=flat-square&labelColor=0d1117" /></a>
-
-</div>
-
 <br/>
 
 ## 🌸 About Me
