@@ -51,12 +51,6 @@ Passionate about building things for the web and contributing to the open source
 
 <br/>
 
-## 🌿 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanakanjali&bg_color=0d1117&color=D4537E&line=7F77DD&point=ED93B1&area=true&area_color=D4537E&hide_border=true" />
-
-<br/>
-
 ## 📬 Connect With Me
 
 <div align="center">
