@@ -14,7 +14,7 @@
 
 ## 🌸 About Me
 
-> *"Passionate about web development and open source — turning curiosity into creation."* 🌸
+> *"Passionate about web development and open source - turning curiosity into creation."* 🌸
 
 Passionate about building things for the web and contributing to the open source community. I love exploring how things work, creating projects from scratch, and growing through real-world experiences.
 
