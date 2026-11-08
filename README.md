@@ -45,7 +45,7 @@ Passionate about building things for the web and contributing to the open source
 | 🎲 [Dice Challenge](https://github.com/kanakanjali/Dice-Challenge) | Roll the dice! | CSS |
 | 🎮 [Simon Game](https://github.com/kanakanjali/Simon-Game) | Classic memory sequence game | JavaScript |
 | 🥁 [Drumkit](https://github.com/kanakanjali/Drumkit) | Play drums in your browser | JavaScript |
-| 🌐 [Portfolio](https://kanakanjali.github.io/Portfolio/) | My personal portfolio site | HTML · CSS |
+| 🌐 [Portfolio](https://kanakanjali.github.io/kanakanjali.github.io-portfolio/) | My personal portfolio site | HTML · CSS |
 
 </div>
 
