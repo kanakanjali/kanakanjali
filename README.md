@@ -33,24 +33,6 @@ Passionate about building things for the web and contributing to the open source
 
 </div>
 
-<br/>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | About | Tech |
-|--------|-------|------|
-| 🐱 [MEOWMATCH](https://github.com/kanakanjali/MEOWMATCH) | A fun cat matching game | HTML |
-| 🎲 [Dice Challenge](https://github.com/kanakanjali/Dice-Challenge) | Roll the dice! | CSS |
-| 🎮 [Simon Game](https://github.com/kanakanjali/Simon-Game) | Classic memory sequence game | JavaScript |
-| 🥁 [Drumkit](https://github.com/kanakanjali/Drumkit) | Play drums in your browser | JavaScript |
-| 🌐 [Portfolio](https://kanakanjali.github.io/kanakanjali.github.io-portfolio/) | My personal portfolio site | HTML · CSS |
-
-</div>
-
-<br/>
-
 ## 📬 Connect With Me
 
 <div align="center">
